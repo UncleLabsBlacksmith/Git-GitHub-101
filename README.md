@@ -1,4 +1,4 @@
-# ✨ Hello, World! — Animated (tkinter)
+# ✨ Hello, World! — Animated (tkinter) by Uncle Engineer
 
 โปรแกรม Hello World แบบ animation เขียนด้วย Python + tkinter อยู่ในไฟล์เดียว และไม่ต้องติดตั้งไลบรารีเพิ่ม
 
